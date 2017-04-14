@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #ededed;
+    padding: 10% 5%;
+    font: 16px 'Arial';
+}
+
+.flex-container {
+    padding: 10px;
+    background: #fff;
+    border: 5px solid #ccc;
+    border-radius: 5px;
+    margin: 45px auto;
+    box-shadow: 0 1.5px 0 0 rgba(0, 0, 0, 0.07);
+}
+
+.flex-element {
+    color: #fff;
+    padding: 15px;
+    margin: 5px;
+    background: rgb(35, 150, 179);
+    border-radius: 5px;
+}

@@ -1,0 +1,22 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.flex1 {
+    flex: 0 100%;
+}
+
+.flex2 {
+    flex: 1 0;
+}
+
+.flex3 {
+    flex: 2 0 auto;
+}
+
+.flex4 {
+    flex: 0 100%;
+}
